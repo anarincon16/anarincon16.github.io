@@ -1,11 +1,11 @@
 body {  
-    font-family: Arial, Helvetica, sans-serif
-    front size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
     margin-left: 10px;
 }
-a:focous, a :hover{
+a:focus, a:hover{
     font-style: italic;
-    color: oranged;
+    color: orangered;
 }
 header h1{
     font-size: 175%;
@@ -14,7 +14,7 @@ header h1{
 }
 header h2 {
     font-size: 130%;
-    color: 800000;
+    color: #800000;
     text-indent: 30px; 
 }
 header img{
@@ -35,5 +35,5 @@ main h3{
 }
 footer p.copyright {
     text-align: center;
-    font: size 80%;
+    font-size: 80%
 }
