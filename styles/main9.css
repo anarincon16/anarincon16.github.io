@@ -56,8 +56,17 @@ main div.contact{
     border:5px dotted blue;
     border radius: 20px;
     box-shadow: 3px 3px 4px red;
-    padding: 1em
+    padding: 1em;
 
+}
+main {
+    clear:left
+}
+main img{
+    margin-left: 2em;
+}
+main h3{
+    margin: 3em 2em 1.5em;
 }
 #list { 
     line-height: 1.5em;
