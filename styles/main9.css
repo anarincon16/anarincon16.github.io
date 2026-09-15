@@ -39,7 +39,7 @@ main{
 }
 main h3{
     margin: 3em 2em 1.5em;
-    border:5px dodgerblue;
+    border:5px double blue;
     border-radius: 20px;
     box-shadow: 3px 3px 4px 4px red;
     font-size: 105%;
@@ -55,18 +55,9 @@ main div.contact{
     margin: 1.5em 2em 0 2em;
     border:5px dotted blue;
     border-radius: 20px;
-    box-shadow: 3px 3px 4px red;
+    box-shadow: 3px 3px 3px 4px 4px red;
     padding: 1em;
 
-}
-main {
-    clear:left
-}
-main img{
-    margin-left: 2em;
-}
-main h3{
-    margin: 3em 2em 1.5em;
 }
 #list { 
     line-height: 1.5em;
