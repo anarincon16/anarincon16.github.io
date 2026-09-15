@@ -52,7 +52,7 @@ main nav{
     padding: 0.5 em
 }
 main div.contact{
-    margin 1.5em 2em 0 2em;
+    margin: 1.5em 2em 0 2em;
     border:5px dotter blue
     border radius: 20px;
     box-shadow: 3px 3px 4px red;
