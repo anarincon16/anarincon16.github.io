@@ -71,6 +71,11 @@ footer {
     border-top: 2px solid maroon;
 }
 p.fixed {
-    width: auto;
+     width: auto;
     position: fixed;
+    bottom: 0;
+    right: 0;
+    background-color: #ffebc6;
+    padding: 1em;
 }
+
