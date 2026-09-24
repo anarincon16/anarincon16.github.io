@@ -77,6 +77,9 @@ p.fixed {
     right: 0;
     background-color: #f7c6ff;
     padding: 1em;
-    
+    column-count: 2;
+    column-rule: 2px dotted rgb(89, 57, 57);
+    column-gap: 2em;
+    margin-bottom: 2em;
 }
 
