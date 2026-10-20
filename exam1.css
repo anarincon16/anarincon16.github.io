@@ -13,3 +13,26 @@ body{
     background-attachment: fixed;
     background-color: white;
 }
+/*Navigation menu*/
+#nav_menu{
+    display: flow-root;
+    border-bottom: 2px solid darkgreen;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+
+}
+#nav_menu ul{
+    list-style-type: none;
+}
+#nav_menu ul{
+    float: left;
+}
+#nav_menu ul li a{
+    text-align: center;
+    display: block;
+    width: 175px;
+    padding: 1em 0;
+    text-decoration: none;
+    background-color: darkgreen;
+    color: white;
+    front-weight: 
