@@ -98,7 +98,7 @@ aside{
 aside ol{
     list-style-type: upper-roman;
 }
-aside il{
+aside ul{
     list-style: square;
 }
 aside ul ol{ 
