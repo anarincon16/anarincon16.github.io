@@ -35,4 +35,53 @@ body{
     text-decoration: none;
     background-color: darkgreen;
     color: white;
-    front-weight: 
+    font-weight:bold;
+    border-right: 2px solid white; 
+}
+#nav_menu ul li a.lastitem{
+    border-right: none;
+}
+#nav_menu ul li a.current{
+    color: yellow;
+}
+/*main content */
+article{
+    clear: left;
+    width: 75%;
+    float: left;
+    column-count: 3;
+    column-rule: 6px dotted darkgreen;
+    column-gap: 2em;
+    margin-left: 2em;
+    margin-bottom: 1em;
+}
+article h2{
+    font-size: 130%;
+    color: darkgreen;
+
+}
+article img{
+    float: left;
+    margin-right: 1em;
+    margin: bottom 1em;
+
+}
+article p::first-letter{
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+    color: purple;
+}
+article video{
+    width: 100%;
+}
+
+/*Side content */
+
+aside{
+    width: 20%;
+    position: fixed;
+    right: 3%;
+    top: 35%;
+    background-color: lightgreen;
+}
