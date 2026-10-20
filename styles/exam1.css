@@ -26,7 +26,7 @@ body{
     margin: 15px 0 0 30px;
     padding: 0;
 }
-#nav_menu ul{
+#nav_menu ul li{
     float: left;
 }
 #nav_menu ul li a{
@@ -71,7 +71,7 @@ article h2{
 article img{
     float: left;
     margin-right: 1em;
-    margin: bottom 1em;
+    margin-bottom: 1em;
 
 }
 article p::first-letter{
