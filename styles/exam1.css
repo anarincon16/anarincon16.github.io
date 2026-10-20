@@ -84,4 +84,30 @@ aside{
     right: 3%;
     top: 35%;
     background-color: lightgreen;
+    border: 2px solid darkgreen;
+    padding: 1em;
+}
+aside ol{
+    list-style-type: upper-roman;
+}
+aside il{
+    list-style: square;
+}
+aside ul ol{ 
+    list-style-type: lower-alpha;
+}
+
+/*footer */
+
+footer{
+    clear: both;
+    border-top: 2px solid darkgreen;
+    text-align: center;
+    font-size: .8em;
+}
+
+/* Links */
+a:focus, a:hover{
+    font-style: italic;
+    color: orangered;
 }
